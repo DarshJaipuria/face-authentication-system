@@ -1,0 +1,4 @@
+opencv-python==4.13.0.81
+opencv-contrib-python==4.13.0.81
+numpy==2.2.3
+pygrabber==0.2
